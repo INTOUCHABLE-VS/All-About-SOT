@@ -28,6 +28,7 @@
 - **[pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)**
 - **[ResearchTools](https://github.com/JudasDie/ResearchTools)**
 - **[VisualTracking-Toolkit](https://github.com/foolwood/VisualTracking-Toolkit)**
+- **[visual_tracker_benchmark](https://github.com/HonglinChu/visual_tracker_benchmark)**
 
 
 ##
