@@ -8,7 +8,7 @@
 - **[pysot](https://github.com/STVIR/pysot)**
 - **[pytracking](https://github.com/visionml/pytracking)**
 - **[TracKit](https://github.com/researchmm/TracKit)**
-- **[MMTracking](https://github.com/open-mmlab/mmtracking)
+- **[MMTracking](https://github.com/open-mmlab/mmtracking)**
 
 ### Other Codes
 - **[SiamTrackers](https://github.com/HonglinChu/SiamTrackers)**
